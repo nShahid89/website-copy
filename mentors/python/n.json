@@ -22,5 +22,13 @@
     "link_url": null,
     "avatar_url": null,
     "bio": "I use Python nearly every day and believe everyone can benefit from its simplicity and effectiveness to demonstrate high-level Computer Science concepts and automate everyday tasks."
+  },
+  {
+    "github_username": "nShahid89",
+    "name": "Nauman Shahid",
+    "link_text": "LinkedIn",
+    "link_url": "https://www.linkedin.com/in/nshahid-89/",
+    "avatar_url": null,
+    "bio": "Playing around with Python started out as a hobby, but I have had the opportunity to not only use it academically but also professionally. I have also been appointed as an Academic Mentor for Introduction to Python programming course at the University of Sydney."
   }
 ]
